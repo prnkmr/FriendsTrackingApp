@@ -79,6 +79,7 @@ public class LoginActivity extends ActionBarActivity {
             loginButton.setEnabled(true);
             Toast.makeText(this,"Invalid Credentials",Toast.LENGTH_SHORT).show();
         }else{
+            loginButton.setEnabled(true);
             Toast.makeText(this,"Unknown Error",Toast.LENGTH_SHORT).show();
         }
     }
