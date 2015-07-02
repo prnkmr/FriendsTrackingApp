@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-6a45de573f6e0c84afdc9fc0383422d8f14a14a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-99de1181503b7eb1988ab62078d0c0ff39716574.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-a940a9094fefac90957070f5a7e7af0907964dc4.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-73915877a018e74bd2547dd9838cd67ae15fb58f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-1c4804f008c8126fceb013878295663138073eeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-e64df048f4a5ab4abf99b152391782a0086e453c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-aa32b2801fe1e0789cf44c4f7d1e7617d38ba027.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-4b5d9318b1852fbb806542af2abf5f71e739b380.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-0575370749b9db4ffa5ce06773560d43d90abfc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-f052dcf8d158d8f549c78fb93f34fae813142c9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-73da0254cefe336b86de49b2a7d69254cd7c5796.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-fce03c16649d5ba9a2baa3a00167060879634aeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-ae3c577e4f2f3b6f42ea5aa67d5c9355c6378d59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-c2e61f225d49ab3adb53f1f95356050a70b45039.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-6d6af9cc54a34b53441e0e06098168e82873a456.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-995da9e00b8ca71ef92b68d366e6cbd5db778969.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-7dde083e300a0f24e198c92fb65557771793475d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-4102db72bf06a67cc53b875bf031756df33aa0fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-1b66f9c12719662c45e43dd3d46dd55e9fbc9476.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-00d9a2ac61b1f75c17d500a49a25f832046cbc48.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-258f5637bbd0470c0fb26e58690ed38611229bd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-d3ab80733e4787c9fce71a40a592b553ebdf78e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-9c72046cbf9db6819b74c7ce7068b5bfde67a72b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Praveen kumar\AndroidStudioProjects\Test4\app\build\intermediates\pre-dexed\debug\classes-9e5e7a5d79d6a6dbc62a7b66538e5af7cab2472f.jar" />
+    </item>
+
+</items>
